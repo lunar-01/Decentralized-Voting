@@ -53,6 +53,8 @@ To deploy the contract on a testnet or local blockchain:
 
 ## contract address : 0xb2269ae0fc93c9a949b956a7c18da6827b9cb8b1
 
+##transaction link: https://scan.test2.btcs.network/tx/0x4fb6dfd950b65bbb86b89d30b109b097ab025e44a56767192df9295e8777432c
+
 ![image](https://github.com/user-attachments/assets/3606fe38-c552-4e74-8d53-75aed85ebdb8)
 
 
